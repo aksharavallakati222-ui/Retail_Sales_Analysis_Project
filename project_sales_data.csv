@@ -1,0 +1,1001 @@
+order_id,order_date,category,product_name,quantity,unit_price,total_sales,region
+1,2023-12-04,Home & Garden,Chair,7,208.84,1461.88,North
+2,2023-02-10,Home & Garden,Lamp,6,98.34,590.04,South
+3,2023-04-27,Books,Comic,8,384.32,3074.56,West
+4,2023-01-24,Books,Novel,5,426.33,2131.65,South
+5,2023-12-28,Clothing,Jacket,1,486.92,486.92,East
+6,2023-10-24,Home & Garden,Lamp,2,420.69,841.38,East
+7,2023-04-14,Books,Comic,10,158.19,1581.9,South
+8,2023-09-30,Electronics,Laptop,5,369.02,1845.1,East
+9,2023-01-12,Clothing,Jacket,4,85.05,340.2,South
+10,2023-12-19,Clothing,Jacket,3,215.89,647.67,South
+11,2023-06-04,Clothing,Jeans,10,180.02,1800.2,North
+12,2023-09-19,Home & Garden,Chair,7,299.7,2097.9,North
+13,2023-08-03,Books,Textbook,9,247.24,2225.16,North
+14,2023-02-22,Sports,Dumbbells,5,264.69,1323.45,East
+15,2023-12-21,Electronics,Monitor,1,55.21,55.21,North
+16,2023-12-06,Clothing,Sneakers,5,308.08,1540.4,West
+17,2023-10-01,Sports,Bike,3,47.7,143.1,South
+18,2023-08-09,Books,Novel,8,236.99,1895.92,West
+19,2023-08-09,Clothing,Sneakers,4,14.62,58.48,West
+20,2023-10-01,Sports,Dumbbells,10,370.1,3701.0,South
+21,2023-03-27,Home & Garden,Lamp,3,497.85,1493.55,North
+22,2023-08-19,Sports,Yoga Mat,6,215.07,1290.42,East
+23,2023-06-22,Home & Garden,Chair,1,67.61,67.61,West
+24,2023-10-06,Books,Textbook,7,478.24,3347.68,West
+25,2023-10-31,Books,Textbook,4,288.45,1153.8,West
+26,2023-04-05,Books,Textbook,2,173.14,346.28,East
+27,2023-03-22,Home & Garden,Blender,1,471.69,471.69,North
+28,2023-04-29,Clothing,Jeans,9,285.11,2565.99,North
+29,2023-05-02,Electronics,Laptop,1,440.26,440.26,North
+30,2023-03-25,Home & Garden,Chair,4,368.82,1475.28,West
+31,2023-05-14,Home & Garden,Blender,8,301.73,2413.84,West
+32,2023-08-27,Clothing,Jacket,3,19.27,57.81,West
+33,2023-01-24,Sports,Tennis Racket,9,343.43,3090.87,South
+34,2023-02-11,Clothing,Sneakers,2,456.72,913.44,North
+35,2023-02-26,Electronics,Laptop,2,194.25,388.5,East
+36,2023-03-25,Electronics,Monitor,8,443.81,3550.48,South
+37,2023-02-03,Sports,Tennis Racket,4,125.5,502.0,West
+38,2023-09-11,Sports,Dumbbells,3,136.36,409.08,South
+39,2023-05-25,Electronics,Laptop,6,355.71,2134.26,South
+40,2023-02-23,Clothing,T-Shirt,6,375.93,2255.58,South
+41,2023-06-26,Books,Textbook,6,300.93,1805.58,West
+42,2023-01-17,Books,Biography,2,496.85,993.7,West
+43,2023-06-12,Sports,Yoga Mat,8,173.57,1388.56,East
+44,2023-01-27,Sports,Bike,4,171.64,686.56,North
+45,2023-07-06,Books,Biography,7,241.91,1693.37,North
+46,2023-06-19,Sports,Yoga Mat,5,465.81,2329.05,West
+47,2023-07-03,Clothing,Sneakers,1,246.8,246.8,West
+48,2023-08-05,Clothing,Jacket,3,472.98,1418.94,South
+49,2023-07-05,Books,Comic,8,411.78,3294.24,East
+50,2023-03-19,Home & Garden,Blender,4,301.87,1207.48,South
+51,2023-07-22,Sports,Bike,2,343.89,687.78,East
+52,2023-09-08,Books,Textbook,4,173.86,695.44,South
+53,2023-09-07,Clothing,Jacket,2,189.28,378.56,South
+54,2023-04-21,Electronics,Headphones,10,313.95,3139.5,West
+55,2023-02-26,Sports,Tennis Racket,10,400.81,4008.1,West
+56,2023-05-06,Books,Biography,2,326.93,653.86,West
+57,2023-12-09,Electronics,Smartphone,10,272.54,2725.4,South
+58,2023-11-23,Electronics,Monitor,4,244.61,978.44,North
+59,2023-02-13,Home & Garden,Lamp,2,360.35,720.7,North
+60,2023-05-05,Clothing,T-Shirt,4,277.49,1109.96,East
+61,2023-04-23,Books,Novel,6,62.09,372.54,North
+62,2023-05-31,Books,Comic,7,491.49,3440.43,West
+63,2023-04-21,Home & Garden,Lamp,2,363.04,726.08,North
+64,2023-10-06,Sports,Tennis Racket,1,160.9,160.9,West
+65,2023-09-17,Electronics,Smartphone,6,312.0,1872.0,East
+66,2023-09-16,Sports,Tennis Racket,10,313.16,3131.6,East
+67,2023-05-03,Electronics,Smartphone,3,261.12,783.36,North
+68,2023-11-07,Electronics,Smartphone,8,248.86,1990.88,West
+69,2023-01-11,Home & Garden,Desk,4,78.21,312.84,East
+70,2023-06-29,Sports,Yoga Mat,1,286.2,286.2,West
+71,2023-09-15,Sports,Dumbbells,1,236.05,236.05,East
+72,2023-02-20,Electronics,Smartphone,4,199.5,798.0,North
+73,2023-09-02,Clothing,Jacket,5,77.95,389.75,South
+74,2023-05-02,Books,Comic,5,165.75,828.75,South
+75,2023-01-19,Sports,Yoga Mat,4,134.61,538.44,East
+76,2023-07-28,Sports,Tennis Racket,3,337.16,1011.48,North
+77,2023-10-16,Books,Textbook,6,426.55,2559.3,South
+78,2023-06-23,Electronics,Headphones,1,354.26,354.26,North
+79,2023-04-24,Clothing,Sneakers,5,28.53,142.65,North
+80,2023-04-15,Clothing,Jeans,4,116.81,467.24,North
+81,2023-10-23,Electronics,Smartphone,8,394.44,3155.52,West
+82,2023-11-11,Books,Biography,5,306.93,1534.65,North
+83,2023-11-30,Books,Biography,4,372.07,1488.28,West
+84,2023-11-19,Home & Garden,Chair,2,436.91,873.82,North
+85,2023-06-25,Clothing,Sneakers,6,43.85,263.1,South
+86,2023-07-23,Sports,Tennis Racket,6,255.04,1530.24,West
+87,2023-02-09,Clothing,Jeans,6,403.18,2419.08,North
+88,2023-05-05,Home & Garden,Lamp,6,264.24,1585.44,East
+89,2023-01-02,Sports,Dumbbells,7,475.62,3329.34,South
+90,2023-08-11,Home & Garden,Blender,10,208.86,2088.6,West
+91,2023-07-31,Electronics,Smartphone,9,126.97,1142.73,West
+92,2023-06-14,Electronics,Headphones,6,406.1,2436.6,East
+93,2023-11-06,Home & Garden,Lamp,4,91.26,365.04,South
+94,2023-04-13,Clothing,Jeans,8,42.23,337.84,West
+95,2023-02-10,Books,Biography,1,264.58,264.58,North
+96,2023-06-09,Books,Novel,10,114.66,1146.6,South
+97,2023-07-18,Sports,Bike,2,325.74,651.48,West
+98,2023-09-23,Books,Comic,7,81.42,569.94,South
+99,2023-06-12,Books,Textbook,5,61.72,308.6,North
+100,2023-02-26,Sports,Tennis Racket,4,377.1,1508.4,South
+101,2023-09-24,Sports,Dumbbells,9,61.81,556.29,North
+102,2023-04-24,Sports,Dumbbells,6,483.88,2903.28,West
+103,2023-07-07,Clothing,Sneakers,5,273.54,1367.7,West
+104,2023-08-31,Books,Textbook,3,229.55,688.65,West
+105,2023-02-24,Electronics,Smartphone,8,464.89,3719.12,East
+106,2023-07-20,Clothing,Sneakers,2,13.31,26.62,West
+107,2023-10-14,Clothing,Jacket,3,462.9,1388.7,North
+108,2023-02-16,Home & Garden,Desk,9,73.74,663.66,East
+109,2023-08-01,Clothing,Jeans,10,367.66,3676.6,North
+110,2023-02-16,Home & Garden,Chair,10,39.35,393.5,East
+111,2023-09-14,Electronics,Smartphone,7,409.03,2863.21,East
+112,2023-04-02,Books,Textbook,10,464.32,4643.2,South
+113,2023-05-11,Clothing,Jacket,3,436.83,1310.49,North
+114,2023-07-14,Clothing,T-Shirt,7,38.36,268.52,East
+115,2023-12-18,Home & Garden,Lamp,5,462.03,2310.15,South
+116,2023-04-16,Home & Garden,Blender,8,380.42,3043.36,West
+117,2023-10-27,Home & Garden,Chair,3,499.79,1499.37,East
+118,2023-04-06,Clothing,Sneakers,5,364.68,1823.4,West
+119,2023-11-24,Clothing,T-Shirt,2,468.79,937.58,East
+120,2023-02-15,Sports,Dumbbells,6,51.57,309.42,North
+121,2023-10-14,Books,Comic,5,362.24,1811.2,North
+122,2023-05-17,Electronics,Smartphone,2,253.9,507.8,North
+123,2023-07-19,Home & Garden,Lamp,8,196.84,1574.72,North
+124,2023-08-27,Books,Textbook,3,453.22,1359.66,North
+125,2023-08-29,Clothing,Jacket,5,352.94,1764.7,East
+126,2023-11-14,Clothing,Jacket,3,415.94,1247.82,East
+127,2023-01-31,Home & Garden,Lamp,7,221.84,1552.88,West
+128,2023-09-04,Books,Biography,2,268.6,537.2,West
+129,2023-09-16,Home & Garden,Desk,2,269.15,538.3,East
+130,2023-01-15,Electronics,Headphones,10,356.65,3566.5,East
+131,2023-12-20,Home & Garden,Blender,10,370.99,3709.9,North
+132,2023-10-27,Clothing,Jeans,5,487.68,2438.4,West
+133,2023-09-03,Books,Comic,3,135.08,405.24,North
+134,2023-03-05,Electronics,Monitor,10,443.14,4431.4,North
+135,2023-08-21,Electronics,Laptop,7,379.91,2659.37,North
+136,2023-12-28,Books,Biography,3,84.78,254.34,East
+137,2023-06-12,Electronics,Monitor,8,288.17,2305.36,South
+138,2023-07-07,Books,Novel,5,449.99,2249.95,North
+139,2023-10-19,Books,Textbook,10,479.91,4799.1,South
+140,2023-06-18,Clothing,Jacket,8,113.13,905.04,South
+141,2023-08-23,Clothing,Sneakers,3,387.54,1162.62,North
+142,2023-08-31,Sports,Tennis Racket,2,107.93,215.86,South
+143,2023-07-10,Home & Garden,Blender,7,212.02,1484.14,South
+144,2023-12-30,Sports,Bike,6,155.09,930.54,South
+145,2023-10-12,Electronics,Laptop,3,366.64,1099.92,North
+146,2023-03-30,Clothing,Jacket,5,377.05,1885.25,South
+147,2023-09-26,Electronics,Headphones,5,396.99,1984.95,West
+148,2023-01-04,Clothing,Jeans,3,111.56,334.68,West
+149,2023-03-02,Electronics,Laptop,1,52.13,52.13,West
+150,2023-03-26,Clothing,Jacket,10,272.84,2728.4,South
+151,2023-12-07,Home & Garden,Blender,9,167.28,1505.52,North
+152,2023-10-26,Clothing,T-Shirt,2,168.02,336.04,North
+153,2023-11-28,Home & Garden,Chair,2,231.39,462.78,West
+154,2023-12-23,Electronics,Monitor,10,408.75,4087.5,West
+155,2023-11-01,Electronics,Headphones,1,58.73,58.73,East
+156,2023-04-12,Electronics,Monitor,8,235.87,1886.96,West
+157,2023-01-29,Books,Novel,10,440.44,4404.4,North
+158,2023-02-21,Electronics,Laptop,2,253.88,507.76,East
+159,2023-08-11,Books,Comic,6,493.51,2961.06,South
+160,2023-08-26,Clothing,T-Shirt,2,284.89,569.78,West
+161,2023-10-13,Clothing,Jeans,10,167.81,1678.1,East
+162,2023-09-15,Electronics,Laptop,10,369.95,3699.5,North
+163,2023-12-22,Clothing,Jeans,1,174.86,174.86,North
+164,2023-01-10,Sports,Dumbbells,10,149.76,1497.6,South
+165,2023-09-30,Electronics,Smartphone,5,271.03,1355.15,North
+166,2023-05-22,Sports,Yoga Mat,7,309.57,2166.99,East
+167,2023-03-25,Sports,Yoga Mat,4,376.63,1506.52,East
+168,2023-02-14,Sports,Dumbbells,8,169.04,1352.32,West
+169,2023-11-24,Books,Comic,8,21.07,168.56,East
+170,2023-06-18,Sports,Dumbbells,8,105.22,841.76,South
+171,2023-10-13,Clothing,Sneakers,6,291.3,1747.8,South
+172,2023-10-09,Books,Textbook,4,454.67,1818.68,West
+173,2023-11-24,Electronics,Headphones,7,35.27,246.89,North
+174,2023-11-22,Sports,Dumbbells,7,191.48,1340.36,West
+175,2023-10-01,Clothing,Jeans,4,271.97,1087.88,North
+176,2023-12-19,Home & Garden,Desk,4,282.27,1129.08,West
+177,2023-08-02,Clothing,Sneakers,2,79.23,158.46,East
+178,2023-08-19,Books,Biography,7,345.44,2418.08,North
+179,2023-09-06,Electronics,Laptop,8,376.06,3008.48,West
+180,2023-05-10,Books,Textbook,6,69.56,417.36,West
+181,2023-05-22,Home & Garden,Lamp,7,247.95,1735.65,West
+182,2023-02-10,Sports,Tennis Racket,5,52.03,260.15,East
+183,2023-06-15,Sports,Yoga Mat,6,125.99,755.94,West
+184,2023-11-02,Books,Biography,9,350.43,3153.87,West
+185,2023-09-01,Electronics,Smartphone,7,423.74,2966.18,North
+186,2023-07-07,Electronics,Monitor,7,372.88,2610.16,South
+187,2023-09-01,Sports,Dumbbells,10,399.36,3993.6,West
+188,2023-09-13,Home & Garden,Lamp,7,61.35,429.45,West
+189,2023-10-03,Books,Biography,1,200.95,200.95,West
+190,2023-03-07,Clothing,T-Shirt,9,132.83,1195.47,East
+191,2023-04-14,Sports,Yoga Mat,2,298.2,596.4,North
+192,2023-05-11,Clothing,Sneakers,5,319.54,1597.7,East
+193,2023-04-15,Electronics,Monitor,7,81.32,569.24,North
+194,2023-06-03,Sports,Tennis Racket,6,171.92,1031.52,North
+195,2023-01-26,Books,Novel,3,212.58,637.74,South
+196,2023-03-20,Clothing,Sneakers,8,50.39,403.12,North
+197,2023-10-03,Electronics,Laptop,3,366.37,1099.11,South
+198,2023-09-27,Clothing,T-Shirt,2,404.8,809.6,South
+199,2023-10-03,Clothing,Jacket,10,468.52,4685.2,East
+200,2023-11-18,Clothing,Sneakers,1,63.52,63.52,North
+201,2023-05-03,Home & Garden,Chair,6,270.43,1622.58,West
+202,2023-05-01,Books,Textbook,8,149.34,1194.72,South
+203,2023-11-28,Electronics,Smartphone,3,155.22,465.66,North
+204,2023-10-04,Home & Garden,Chair,8,486.59,3892.72,West
+205,2023-08-05,Books,Textbook,8,175.14,1401.12,South
+206,2023-10-09,Electronics,Laptop,10,15.55,155.5,West
+207,2023-06-28,Electronics,Headphones,4,209.84,839.36,East
+208,2023-11-21,Sports,Dumbbells,2,294.03,588.06,East
+209,2023-02-17,Electronics,Smartphone,7,137.31,961.17,East
+210,2023-12-12,Sports,Tennis Racket,7,276.69,1936.83,West
+211,2023-10-27,Books,Novel,6,357.85,2147.1,North
+212,2023-11-01,Home & Garden,Blender,8,247.98,1983.84,South
+213,2023-03-05,Sports,Bike,9,417.64,3758.76,East
+214,2023-02-03,Electronics,Headphones,2,167.17,334.34,West
+215,2023-07-03,Home & Garden,Lamp,7,47.61,333.27,North
+216,2023-07-11,Sports,Yoga Mat,7,51.01,357.07,North
+217,2023-08-26,Sports,Tennis Racket,2,472.06,944.12,East
+218,2023-04-07,Books,Textbook,2,331.46,662.92,South
+219,2023-03-22,Home & Garden,Blender,10,126.33,1263.3,West
+220,2023-03-28,Electronics,Smartphone,1,130.79,130.79,East
+221,2023-10-04,Books,Textbook,7,106.96,748.72,North
+222,2023-01-14,Sports,Yoga Mat,3,315.85,947.55,East
+223,2023-03-08,Sports,Tennis Racket,9,238.59,2147.31,East
+224,2023-01-20,Clothing,Sneakers,6,90.66,543.96,North
+225,2023-03-15,Electronics,Headphones,4,189.45,757.8,North
+226,2023-02-22,Electronics,Headphones,9,31.16,280.44,West
+227,2023-01-04,Electronics,Laptop,1,91.66,91.66,North
+228,2023-02-08,Electronics,Smartphone,3,134.3,402.9,North
+229,2023-10-10,Clothing,Jacket,9,39.42,354.78,North
+230,2023-02-05,Sports,Yoga Mat,3,376.21,1128.63,South
+231,2023-10-18,Books,Novel,4,155.7,622.8,North
+232,2023-11-21,Clothing,Jacket,8,435.57,3484.56,East
+233,2023-11-01,Sports,Dumbbells,5,486.6,2433.0,South
+234,2023-05-07,Sports,Tennis Racket,10,466.97,4669.7,South
+235,2023-04-18,Sports,Tennis Racket,10,404.61,4046.1,South
+236,2023-04-29,Sports,Bike,9,309.71,2787.39,North
+237,2023-08-23,Sports,Yoga Mat,6,410.96,2465.76,South
+238,2023-10-05,Home & Garden,Desk,5,29.91,149.55,East
+239,2023-12-06,Sports,Bike,10,410.16,4101.6,South
+240,2023-02-14,Electronics,Headphones,4,134.16,536.64,West
+241,2023-10-04,Electronics,Laptop,9,330.01,2970.09,South
+242,2023-10-11,Clothing,Jacket,5,127.39,636.95,East
+243,2023-09-03,Sports,Bike,10,397.1,3971.0,West
+244,2023-08-13,Electronics,Smartphone,10,164.23,1642.3,East
+245,2023-09-11,Home & Garden,Lamp,1,466.78,466.78,South
+246,2023-07-15,Books,Textbook,10,394.01,3940.1,North
+247,2023-03-04,Electronics,Monitor,7,53.89,377.23,East
+248,2023-06-16,Home & Garden,Chair,6,53.27,319.62,West
+249,2023-03-27,Electronics,Smartphone,2,88.69,177.38,South
+250,2023-09-20,Sports,Tennis Racket,10,36.25,362.5,South
+251,2023-03-20,Books,Biography,6,72.06,432.36,South
+252,2023-12-21,Books,Biography,6,383.49,2300.94,North
+253,2023-04-04,Sports,Tennis Racket,3,123.78,371.34,South
+254,2023-02-15,Home & Garden,Chair,2,262.41,524.82,South
+255,2023-07-21,Electronics,Headphones,7,392.86,2750.02,West
+256,2023-09-30,Books,Comic,1,326.84,326.84,East
+257,2023-04-07,Electronics,Smartphone,6,65.07,390.42,North
+258,2023-07-10,Sports,Dumbbells,10,144.31,1443.1,North
+259,2023-01-15,Home & Garden,Lamp,1,118.36,118.36,West
+260,2023-10-10,Electronics,Laptop,6,234.42,1406.52,West
+261,2023-07-11,Books,Biography,2,477.87,955.74,West
+262,2023-09-07,Electronics,Headphones,6,82.52,495.12,West
+263,2023-06-21,Books,Textbook,7,487.18,3410.26,North
+264,2023-09-01,Sports,Yoga Mat,6,23.47,140.82,East
+265,2023-07-27,Books,Biography,7,434.06,3038.42,South
+266,2023-06-08,Home & Garden,Lamp,1,251.31,251.31,East
+267,2023-03-10,Sports,Tennis Racket,6,219.09,1314.54,North
+268,2023-09-03,Electronics,Smartphone,6,51.41,308.46,East
+269,2023-01-17,Electronics,Smartphone,1,128.83,128.83,North
+270,2023-01-02,Home & Garden,Blender,1,279.88,279.88,North
+271,2023-08-08,Home & Garden,Lamp,1,163.39,163.39,North
+272,2023-03-27,Sports,Yoga Mat,9,10.98,98.82,West
+273,2023-05-02,Home & Garden,Desk,3,261.4,784.2,South
+274,2023-03-02,Clothing,T-Shirt,8,226.08,1808.64,West
+275,2023-12-10,Clothing,T-Shirt,5,434.93,2174.65,South
+276,2023-06-11,Home & Garden,Lamp,10,158.14,1581.4,South
+277,2023-05-04,Books,Novel,2,152.13,304.26,South
+278,2023-07-10,Electronics,Smartphone,4,362.75,1451.0,North
+279,2023-07-11,Sports,Dumbbells,3,270.18,810.54,West
+280,2023-05-21,Sports,Yoga Mat,6,62.25,373.5,North
+281,2023-08-20,Home & Garden,Chair,6,248.26,1489.56,West
+282,2023-01-24,Electronics,Monitor,3,389.23,1167.69,East
+283,2023-06-02,Sports,Dumbbells,4,89.24,356.96,North
+284,2023-10-29,Home & Garden,Blender,1,337.24,337.24,South
+285,2023-05-06,Clothing,Jeans,8,366.25,2930.0,North
+286,2023-07-10,Electronics,Monitor,3,118.44,355.32,South
+287,2023-04-05,Books,Biography,10,499.77,4997.7,East
+288,2023-08-24,Electronics,Headphones,9,324.24,2918.16,South
+289,2023-02-12,Clothing,Sneakers,9,270.97,2438.73,West
+290,2023-04-09,Home & Garden,Chair,10,24.1,241.0,North
+291,2023-04-15,Electronics,Laptop,9,164.62,1481.58,East
+292,2023-06-30,Electronics,Laptop,7,120.38,842.66,South
+293,2023-12-04,Clothing,Sneakers,6,32.46,194.76,East
+294,2023-11-24,Electronics,Smartphone,7,407.25,2850.75,North
+295,2023-12-18,Sports,Tennis Racket,9,222.83,2005.47,East
+296,2023-05-13,Sports,Dumbbells,8,69.96,559.68,West
+297,2023-11-22,Home & Garden,Lamp,10,376.81,3768.1,East
+298,2023-02-24,Sports,Dumbbells,1,150.97,150.97,West
+299,2023-07-24,Books,Comic,10,278.04,2780.4,West
+300,2023-12-14,Books,Biography,8,320.47,2563.76,South
+301,2023-11-17,Electronics,Smartphone,1,356.18,356.18,West
+302,2023-12-18,Clothing,Jacket,6,133.51,801.06,East
+303,2023-10-24,Books,Biography,4,47.83,191.32,East
+304,2023-10-23,Books,Biography,6,33.42,200.52,South
+305,2023-01-15,Home & Garden,Chair,8,489.27,3914.16,South
+306,2023-04-07,Sports,Yoga Mat,2,325.57,651.14,West
+307,2023-04-13,Books,Comic,3,425.83,1277.49,North
+308,2023-01-09,Sports,Yoga Mat,2,142.38,284.76,West
+309,2023-12-06,Home & Garden,Blender,1,440.72,440.72,West
+310,2023-09-14,Sports,Dumbbells,5,195.71,978.55,East
+311,2023-08-16,Sports,Dumbbells,3,436.14,1308.42,East
+312,2023-10-18,Sports,Tennis Racket,1,172.88,172.88,East
+313,2023-01-28,Electronics,Monitor,2,219.84,439.68,South
+314,2023-02-19,Clothing,Jacket,8,171.43,1371.44,North
+315,2023-02-22,Home & Garden,Blender,6,13.17,79.02,West
+316,2023-07-10,Home & Garden,Blender,2,115.83,231.66,East
+317,2023-06-17,Sports,Yoga Mat,9,436.27,3926.43,East
+318,2023-11-14,Sports,Dumbbells,3,415.66,1246.98,North
+319,2023-04-21,Books,Novel,5,154.97,774.85,East
+320,2023-03-22,Clothing,Jeans,10,233.95,2339.5,North
+321,2023-06-03,Books,Comic,2,109.31,218.62,North
+322,2023-07-09,Electronics,Smartphone,6,497.87,2987.22,East
+323,2023-07-22,Electronics,Headphones,8,414.17,3313.36,North
+324,2023-07-14,Sports,Bike,1,466.22,466.22,South
+325,2023-08-04,Home & Garden,Chair,6,434.53,2607.18,South
+326,2023-03-14,Books,Textbook,9,151.62,1364.58,West
+327,2023-06-25,Books,Textbook,3,438.07,1314.21,North
+328,2023-11-04,Clothing,T-Shirt,2,10.72,21.44,South
+329,2023-05-03,Sports,Bike,10,486.48,4864.8,East
+330,2023-02-06,Sports,Bike,9,119.83,1078.47,West
+331,2023-07-04,Sports,Dumbbells,6,345.68,2074.08,South
+332,2023-02-15,Clothing,T-Shirt,7,359.83,2518.81,South
+333,2023-12-25,Electronics,Monitor,1,438.5,438.5,North
+334,2023-07-27,Electronics,Laptop,6,284.05,1704.3,South
+335,2023-11-08,Clothing,Jacket,6,303.74,1822.44,North
+336,2023-04-01,Electronics,Smartphone,1,497.83,497.83,North
+337,2023-12-16,Clothing,Sneakers,2,42.95,85.9,East
+338,2023-06-12,Home & Garden,Chair,4,249.64,998.56,West
+339,2023-01-27,Clothing,Sneakers,10,239.28,2392.8,West
+340,2023-03-29,Clothing,T-Shirt,5,351.89,1759.45,North
+341,2023-07-13,Home & Garden,Lamp,5,132.31,661.55,West
+342,2023-10-30,Electronics,Smartphone,6,403.59,2421.54,East
+343,2023-07-31,Sports,Dumbbells,7,335.52,2348.64,East
+344,2023-09-19,Clothing,Jacket,8,346.2,2769.6,North
+345,2023-01-06,Clothing,Sneakers,10,114.56,1145.6,East
+346,2023-02-23,Electronics,Smartphone,6,257.03,1542.18,East
+347,2023-05-11,Sports,Dumbbells,5,386.03,1930.15,South
+348,2023-08-02,Sports,Bike,9,183.44,1650.96,West
+349,2023-10-13,Home & Garden,Lamp,4,433.47,1733.88,North
+350,2023-07-14,Clothing,Sneakers,1,489.87,489.87,East
+351,2023-03-26,Electronics,Headphones,7,46.0,322.0,South
+352,2023-07-04,Clothing,Sneakers,3,437.58,1312.74,East
+353,2023-11-25,Sports,Tennis Racket,5,234.36,1171.8,North
+354,2023-11-03,Electronics,Headphones,10,136.85,1368.5,South
+355,2023-04-29,Electronics,Laptop,2,203.62,407.24,East
+356,2023-05-07,Sports,Dumbbells,2,388.77,777.54,North
+357,2023-07-03,Home & Garden,Lamp,7,387.74,2714.18,East
+358,2023-02-06,Electronics,Monitor,10,468.45,4684.5,East
+359,2023-09-29,Clothing,T-Shirt,6,313.75,1882.5,North
+360,2023-08-27,Sports,Yoga Mat,8,16.31,130.48,North
+361,2023-02-17,Clothing,Jacket,10,331.55,3315.5,North
+362,2023-09-04,Sports,Yoga Mat,4,143.25,573.0,North
+363,2023-01-24,Sports,Dumbbells,1,196.38,196.38,North
+364,2023-01-23,Home & Garden,Lamp,7,255.66,1789.62,East
+365,2023-06-05,Clothing,Jeans,6,90.84,545.04,West
+366,2023-05-13,Clothing,Jeans,3,319.34,958.02,East
+367,2023-12-18,Books,Biography,4,409.67,1638.68,East
+368,2023-11-02,Clothing,Jeans,3,140.0,420.0,North
+369,2023-12-26,Clothing,Jeans,6,13.22,79.32,West
+370,2023-01-28,Books,Textbook,6,240.27,1441.62,West
+371,2023-02-14,Sports,Tennis Racket,5,384.2,1921.0,South
+372,2023-12-03,Clothing,Jacket,6,204.45,1226.7,South
+373,2023-01-14,Electronics,Monitor,3,334.72,1004.16,North
+374,2023-02-09,Sports,Tennis Racket,10,351.06,3510.6,East
+375,2023-11-21,Electronics,Laptop,7,162.93,1140.51,North
+376,2023-09-12,Electronics,Smartphone,4,30.58,122.32,North
+377,2023-11-13,Home & Garden,Lamp,7,59.9,419.3,North
+378,2023-07-21,Books,Novel,5,124.71,623.55,North
+379,2023-04-08,Books,Comic,9,174.42,1569.78,East
+380,2023-05-20,Books,Novel,8,343.28,2746.24,North
+381,2023-10-27,Electronics,Monitor,10,183.83,1838.3,North
+382,2023-06-13,Books,Novel,7,135.46,948.22,North
+383,2023-06-25,Clothing,Jacket,3,79.88,239.64,North
+384,2023-12-10,Home & Garden,Lamp,5,271.44,1357.2,South
+385,2023-07-19,Sports,Dumbbells,10,147.57,1475.7,East
+386,2023-03-21,Home & Garden,Lamp,9,487.71,4389.39,South
+387,2023-03-06,Electronics,Laptop,10,42.44,424.4,North
+388,2023-02-10,Electronics,Monitor,9,202.68,1824.12,East
+389,2023-01-26,Sports,Yoga Mat,10,226.36,2263.6,West
+390,2023-03-25,Electronics,Smartphone,9,185.09,1665.81,East
+391,2023-05-27,Home & Garden,Chair,4,343.42,1373.68,North
+392,2023-09-04,Electronics,Monitor,5,361.62,1808.1,South
+393,2023-12-22,Clothing,Jacket,8,212.06,1696.48,West
+394,2023-04-12,Home & Garden,Chair,6,45.55,273.3,North
+395,2023-07-24,Books,Textbook,8,336.11,2688.88,South
+396,2023-10-11,Books,Comic,5,138.97,694.85,West
+397,2023-06-23,Clothing,Sneakers,10,40.77,407.7,North
+398,2023-02-18,Electronics,Monitor,9,231.3,2081.7,West
+399,2023-08-14,Home & Garden,Desk,6,205.22,1231.32,West
+400,2023-06-29,Clothing,Jeans,5,271.2,1356.0,East
+401,2023-07-05,Sports,Dumbbells,7,104.21,729.47,West
+402,2023-02-22,Electronics,Smartphone,4,193.1,772.4,South
+403,2023-10-08,Sports,Yoga Mat,1,424.84,424.84,West
+404,2023-09-08,Electronics,Headphones,7,218.04,1526.28,West
+405,2023-08-06,Sports,Yoga Mat,3,227.45,682.35,South
+406,2023-12-19,Sports,Tennis Racket,8,170.37,1362.96,North
+407,2023-11-18,Electronics,Monitor,9,101.62,914.58,North
+408,2023-01-20,Electronics,Headphones,10,497.15,4971.5,South
+409,2023-12-14,Home & Garden,Chair,4,325.84,1303.36,West
+410,2023-02-19,Home & Garden,Lamp,7,65.46,458.22,West
+411,2023-02-09,Clothing,T-Shirt,3,478.47,1435.41,North
+412,2023-07-13,Electronics,Headphones,8,187.24,1497.92,East
+413,2023-11-18,Books,Textbook,8,34.72,277.76,South
+414,2023-12-23,Electronics,Monitor,3,413.1,1239.3,South
+415,2023-01-06,Clothing,T-Shirt,8,130.65,1045.2,South
+416,2023-12-25,Clothing,Jeans,4,249.3,997.2,North
+417,2023-08-28,Books,Textbook,10,319.3,3193.0,North
+418,2023-03-04,Books,Textbook,8,432.89,3463.12,West
+419,2023-03-14,Books,Biography,4,429.56,1718.24,West
+420,2023-10-24,Sports,Dumbbells,9,387.15,3484.35,East
+421,2023-10-15,Clothing,T-Shirt,5,384.98,1924.9,North
+422,2023-01-04,Electronics,Laptop,10,263.28,2632.8,West
+423,2023-07-12,Clothing,Sneakers,9,137.04,1233.36,South
+424,2023-08-12,Electronics,Headphones,9,301.52,2713.68,West
+425,2023-02-25,Books,Novel,6,275.67,1654.02,North
+426,2023-11-11,Electronics,Monitor,1,441.19,441.19,East
+427,2023-01-14,Home & Garden,Chair,6,98.63,591.78,West
+428,2023-01-17,Home & Garden,Desk,9,163.58,1472.22,West
+429,2023-06-13,Electronics,Smartphone,1,112.5,112.5,East
+430,2023-06-20,Sports,Yoga Mat,10,364.57,3645.7,South
+431,2023-05-02,Electronics,Monitor,4,29.32,117.28,West
+432,2023-01-14,Clothing,Sneakers,3,188.04,564.12,East
+433,2023-02-12,Electronics,Monitor,3,90.87,272.61,South
+434,2023-06-08,Clothing,T-Shirt,9,164.94,1484.46,South
+435,2023-09-25,Books,Biography,3,348.87,1046.61,North
+436,2023-12-31,Books,Novel,3,443.64,1330.92,West
+437,2023-02-10,Electronics,Smartphone,1,315.35,315.35,South
+438,2023-08-06,Books,Textbook,2,15.51,31.02,West
+439,2023-04-25,Sports,Tennis Racket,10,252.63,2526.3,East
+440,2023-07-23,Sports,Yoga Mat,5,113.2,566.0,North
+441,2023-08-23,Sports,Tennis Racket,9,252.49,2272.41,North
+442,2023-10-03,Books,Comic,3,112.81,338.43,East
+443,2023-08-01,Home & Garden,Blender,8,415.31,3322.48,North
+444,2023-08-19,Books,Novel,9,214.02,1926.18,South
+445,2023-10-16,Sports,Dumbbells,4,148.66,594.64,South
+446,2023-10-27,Home & Garden,Desk,7,236.26,1653.82,West
+447,2023-04-14,Electronics,Smartphone,9,429.0,3861.0,North
+448,2023-05-23,Clothing,Jeans,2,468.74,937.48,North
+449,2023-04-29,Sports,Tennis Racket,6,253.37,1520.22,East
+450,2023-02-11,Sports,Bike,3,366.58,1099.74,East
+451,2023-04-27,Clothing,Jacket,9,352.18,3169.62,East
+452,2023-04-27,Home & Garden,Lamp,5,356.96,1784.8,East
+453,2023-03-17,Home & Garden,Chair,8,27.57,220.56,North
+454,2023-01-05,Books,Biography,6,277.25,1663.5,North
+455,2023-05-18,Books,Textbook,2,436.96,873.92,North
+456,2023-04-11,Clothing,Sneakers,5,297.63,1488.15,South
+457,2023-11-27,Sports,Yoga Mat,8,482.11,3856.88,East
+458,2023-09-15,Books,Textbook,6,211.75,1270.5,North
+459,2023-12-09,Home & Garden,Blender,10,138.42,1384.2,West
+460,2023-09-04,Sports,Yoga Mat,5,289.42,1447.1,North
+461,2023-04-02,Home & Garden,Lamp,7,132.42,926.94,East
+462,2023-06-01,Clothing,Jeans,2,406.62,813.24,South
+463,2023-06-16,Books,Novel,8,407.68,3261.44,South
+464,2023-08-05,Electronics,Monitor,4,415.22,1660.88,North
+465,2023-02-16,Sports,Bike,9,402.04,3618.36,East
+466,2023-10-31,Books,Biography,3,328.07,984.21,West
+467,2023-07-05,Sports,Bike,5,98.01,490.05,North
+468,2023-02-27,Sports,Yoga Mat,6,471.29,2827.74,West
+469,2023-11-09,Electronics,Smartphone,7,251.53,1760.71,North
+470,2023-03-19,Books,Textbook,5,467.15,2335.75,North
+471,2023-03-29,Home & Garden,Desk,2,438.52,877.04,East
+472,2023-09-16,Sports,Tennis Racket,10,379.51,3795.1,North
+473,2023-06-30,Books,Textbook,9,417.05,3753.45,East
+474,2023-12-26,Home & Garden,Lamp,6,126.8,760.8,East
+475,2023-02-21,Sports,Yoga Mat,8,331.73,2653.84,West
+476,2023-08-19,Books,Novel,3,28.45,85.35,North
+477,2023-01-02,Clothing,Jeans,6,307.78,1846.68,West
+478,2023-05-17,Electronics,Smartphone,3,76.99,230.97,East
+479,2023-08-17,Home & Garden,Desk,7,350.31,2452.17,West
+480,2023-10-02,Clothing,T-Shirt,5,215.89,1079.45,East
+481,2023-01-13,Electronics,Monitor,9,352.15,3169.35,North
+482,2023-01-24,Home & Garden,Chair,10,48.43,484.3,West
+483,2023-01-24,Electronics,Headphones,6,294.32,1765.92,South
+484,2023-09-19,Sports,Yoga Mat,8,412.44,3299.52,South
+485,2023-12-25,Sports,Bike,1,197.58,197.58,North
+486,2023-12-28,Books,Novel,3,173.4,520.2,South
+487,2023-10-10,Sports,Tennis Racket,2,90.52,181.04,South
+488,2023-09-19,Electronics,Headphones,2,443.33,886.66,South
+489,2023-12-03,Sports,Bike,3,324.15,972.45,North
+490,2023-05-28,Books,Textbook,4,211.13,844.52,North
+491,2023-12-10,Home & Garden,Chair,5,262.27,1311.35,South
+492,2023-04-27,Sports,Yoga Mat,2,429.09,858.18,East
+493,2023-01-25,Clothing,T-Shirt,3,375.98,1127.94,East
+494,2023-10-14,Books,Comic,5,405.72,2028.6,South
+495,2023-02-22,Electronics,Laptop,8,296.18,2369.44,West
+496,2023-01-22,Books,Novel,2,278.78,557.56,South
+497,2023-03-30,Electronics,Headphones,5,298.19,1490.95,South
+498,2023-01-03,Electronics,Monitor,9,210.73,1896.57,West
+499,2023-01-01,Sports,Dumbbells,4,431.13,1724.52,South
+500,2023-06-22,Books,Comic,2,40.36,80.72,West
+501,2023-10-15,Electronics,Laptop,3,380.69,1142.07,North
+502,2023-06-29,Electronics,Monitor,2,290.11,580.22,East
+503,2023-08-09,Clothing,Jeans,10,411.99,4119.9,South
+504,2023-05-14,Electronics,Smartphone,9,176.29,1586.61,North
+505,2023-01-05,Home & Garden,Chair,6,91.42,548.52,North
+506,2023-02-08,Sports,Bike,9,123.68,1113.12,North
+507,2023-05-22,Books,Biography,9,252.52,2272.68,South
+508,2023-05-23,Books,Comic,5,209.71,1048.55,East
+509,2023-07-19,Books,Textbook,2,406.96,813.92,East
+510,2023-04-28,Sports,Yoga Mat,5,209.86,1049.3,North
+511,2023-02-20,Books,Comic,4,380.2,1520.8,East
+512,2023-04-29,Home & Garden,Blender,3,184.8,554.4,West
+513,2023-05-20,Electronics,Monitor,5,420.46,2102.3,East
+514,2023-10-15,Sports,Bike,10,429.18,4291.8,East
+515,2023-01-17,Electronics,Headphones,5,101.42,507.1,West
+516,2023-05-24,Home & Garden,Blender,6,351.59,2109.54,West
+517,2023-11-05,Electronics,Monitor,3,49.13,147.39,West
+518,2023-09-23,Home & Garden,Chair,8,153.69,1229.52,East
+519,2023-01-02,Clothing,Jeans,1,184.18,184.18,West
+520,2023-10-04,Electronics,Headphones,8,42.54,340.32,East
+521,2023-09-26,Home & Garden,Chair,9,416.22,3745.98,North
+522,2023-09-27,Clothing,Jeans,2,143.54,287.08,North
+523,2023-11-10,Clothing,Jeans,3,466.3,1398.9,East
+524,2023-01-03,Clothing,Sneakers,10,69.87,698.7,East
+525,2023-05-14,Books,Biography,8,267.58,2140.64,East
+526,2023-05-21,Home & Garden,Desk,1,438.22,438.22,South
+527,2023-05-19,Books,Novel,4,128.17,512.68,North
+528,2023-11-06,Books,Comic,2,345.17,690.34,South
+529,2023-04-02,Clothing,Jacket,2,335.48,670.96,East
+530,2023-11-01,Sports,Yoga Mat,10,287.62,2876.2,West
+531,2023-02-18,Books,Novel,9,277.07,2493.63,East
+532,2023-04-08,Home & Garden,Chair,8,329.5,2636.0,West
+533,2023-09-15,Sports,Yoga Mat,6,270.53,1623.18,North
+534,2023-12-09,Sports,Bike,8,99.55,796.4,East
+535,2023-06-24,Books,Comic,3,416.07,1248.21,West
+536,2023-05-16,Books,Comic,2,64.59,129.18,South
+537,2023-05-30,Home & Garden,Blender,4,134.66,538.64,South
+538,2023-09-17,Clothing,Jacket,2,465.34,930.68,North
+539,2023-01-06,Sports,Bike,9,247.37,2226.33,North
+540,2023-01-04,Electronics,Monitor,7,179.35,1255.45,South
+541,2023-01-05,Books,Biography,7,64.17,449.19,West
+542,2023-11-02,Electronics,Monitor,7,53.18,372.26,West
+543,2023-05-29,Clothing,Sneakers,4,489.13,1956.52,South
+544,2023-01-31,Books,Comic,1,66.54,66.54,North
+545,2023-05-15,Sports,Yoga Mat,2,307.36,614.72,South
+546,2023-12-16,Clothing,Jeans,9,379.23,3413.07,West
+547,2023-01-26,Clothing,Sneakers,6,26.18,157.08,South
+548,2023-08-25,Electronics,Smartphone,3,144.64,433.92,East
+549,2023-06-06,Home & Garden,Desk,9,224.65,2021.85,North
+550,2023-03-15,Books,Biography,3,145.96,437.88,West
+551,2023-10-30,Sports,Yoga Mat,1,349.42,349.42,East
+552,2023-12-10,Home & Garden,Lamp,8,424.49,3395.92,East
+553,2023-04-20,Clothing,Sneakers,7,35.81,250.67,West
+554,2023-05-01,Sports,Yoga Mat,7,272.7,1908.9,South
+555,2023-02-09,Books,Biography,1,383.99,383.99,East
+556,2023-12-28,Clothing,Sneakers,6,98.83,592.98,North
+557,2023-09-16,Books,Novel,4,480.88,1923.52,North
+558,2023-03-09,Electronics,Laptop,1,118.94,118.94,North
+559,2023-08-18,Electronics,Laptop,9,348.36,3135.24,West
+560,2023-03-26,Electronics,Headphones,2,205.02,410.04,West
+561,2023-08-20,Sports,Bike,2,374.69,749.38,East
+562,2023-12-12,Electronics,Headphones,8,171.44,1371.52,East
+563,2023-02-14,Home & Garden,Lamp,2,476.29,952.58,East
+564,2023-10-28,Clothing,Jacket,7,259.92,1819.44,West
+565,2023-04-09,Clothing,Sneakers,5,395.63,1978.15,West
+566,2023-01-27,Sports,Tennis Racket,7,490.82,3435.74,South
+567,2023-08-06,Electronics,Laptop,8,308.71,2469.68,West
+568,2023-11-11,Clothing,T-Shirt,3,12.84,38.52,North
+569,2023-05-09,Home & Garden,Chair,6,488.19,2929.14,East
+570,2023-03-14,Sports,Bike,6,342.14,2052.84,North
+571,2023-06-30,Home & Garden,Chair,9,94.9,854.1,East
+572,2023-12-31,Books,Biography,7,380.16,2661.12,West
+573,2023-02-01,Electronics,Monitor,2,186.42,372.84,East
+574,2023-12-18,Clothing,Jeans,7,273.56,1914.92,South
+575,2023-02-27,Sports,Tennis Racket,10,213.44,2134.4,North
+576,2023-12-18,Books,Novel,3,416.85,1250.55,West
+577,2023-03-15,Sports,Dumbbells,3,268.73,806.19,West
+578,2023-10-01,Home & Garden,Desk,9,499.17,4492.53,South
+579,2023-11-05,Electronics,Headphones,10,320.12,3201.2,West
+580,2023-05-17,Home & Garden,Chair,5,392.81,1964.05,North
+581,2023-10-24,Electronics,Smartphone,1,456.84,456.84,North
+582,2023-10-06,Clothing,Jacket,2,18.57,37.14,East
+583,2023-02-26,Electronics,Smartphone,4,445.53,1782.12,North
+584,2023-05-26,Electronics,Monitor,6,369.23,2215.38,South
+585,2023-08-23,Books,Comic,6,243.07,1458.42,North
+586,2023-06-08,Home & Garden,Chair,7,473.48,3314.36,South
+587,2023-01-01,Home & Garden,Desk,8,397.16,3177.28,East
+588,2023-12-09,Sports,Tennis Racket,2,232.03,464.06,South
+589,2023-03-11,Electronics,Laptop,10,82.38,823.8,East
+590,2023-09-21,Home & Garden,Blender,2,450.74,901.48,South
+591,2023-11-12,Books,Comic,10,114.1,1141.0,East
+592,2023-03-23,Home & Garden,Desk,3,20.14,60.42,West
+593,2023-01-29,Sports,Yoga Mat,1,247.76,247.76,South
+594,2023-03-22,Home & Garden,Chair,5,464.66,2323.3,North
+595,2023-05-08,Clothing,Sneakers,7,267.93,1875.51,North
+596,2023-07-18,Sports,Bike,3,40.02,120.06,West
+597,2023-07-04,Sports,Dumbbells,10,105.43,1054.3,East
+598,2023-02-17,Clothing,Jeans,6,251.85,1511.1,East
+599,2023-08-08,Books,Biography,1,46.92,46.92,East
+600,2023-11-05,Books,Novel,8,199.2,1593.6,West
+601,2023-06-22,Books,Biography,6,112.79,676.74,West
+602,2023-09-26,Sports,Tennis Racket,5,497.01,2485.05,South
+603,2023-04-28,Electronics,Smartphone,8,469.53,3756.24,South
+604,2023-02-15,Sports,Bike,2,280.91,561.82,North
+605,2023-02-23,Electronics,Smartphone,3,30.85,92.55,East
+606,2023-10-02,Home & Garden,Lamp,8,394.53,3156.24,North
+607,2023-07-30,Clothing,T-Shirt,4,154.19,616.76,West
+608,2023-06-17,Books,Textbook,2,97.63,195.26,East
+609,2023-12-13,Electronics,Monitor,6,257.11,1542.66,North
+610,2023-08-17,Home & Garden,Blender,6,85.47,512.82,East
+611,2023-12-31,Electronics,Laptop,5,360.33,1801.65,South
+612,2023-03-28,Clothing,Sneakers,6,441.44,2648.64,West
+613,2023-04-23,Sports,Tennis Racket,9,458.83,4129.47,East
+614,2023-06-04,Sports,Tennis Racket,7,109.59,767.13,South
+615,2023-04-17,Sports,Dumbbells,6,386.24,2317.44,South
+616,2023-04-24,Electronics,Monitor,8,78.4,627.2,West
+617,2023-05-30,Electronics,Monitor,4,382.29,1529.16,East
+618,2023-05-22,Books,Biography,3,18.85,56.55,South
+619,2023-06-23,Clothing,Sneakers,2,333.54,667.08,North
+620,2023-02-08,Sports,Bike,10,59.29,592.9,East
+621,2023-12-02,Sports,Dumbbells,10,418.53,4185.3,North
+622,2023-11-12,Books,Novel,8,220.3,1762.4,North
+623,2023-03-28,Books,Biography,4,91.22,364.88,East
+624,2023-08-12,Books,Novel,1,374.59,374.59,West
+625,2023-02-16,Sports,Bike,10,461.51,4615.1,East
+626,2023-06-29,Electronics,Headphones,6,406.95,2441.7,North
+627,2023-11-27,Home & Garden,Blender,8,369.4,2955.2,West
+628,2023-11-01,Home & Garden,Lamp,9,19.77,177.93,West
+629,2023-01-24,Sports,Tennis Racket,8,492.54,3940.32,West
+630,2023-10-26,Sports,Bike,5,56.83,284.15,West
+631,2023-06-12,Home & Garden,Lamp,5,102.45,512.25,North
+632,2023-11-24,Sports,Tennis Racket,3,117.6,352.8,West
+633,2023-01-23,Books,Novel,9,485.75,4371.75,West
+634,2023-10-18,Electronics,Monitor,6,449.58,2697.48,North
+635,2023-08-13,Home & Garden,Chair,5,96.69,483.45,West
+636,2023-07-16,Home & Garden,Blender,6,312.6,1875.6,East
+637,2023-03-20,Sports,Yoga Mat,2,224.28,448.56,West
+638,2023-04-12,Electronics,Smartphone,9,97.97,881.73,East
+639,2023-06-23,Sports,Dumbbells,8,200.57,1604.56,East
+640,2023-04-12,Books,Comic,10,86.61,866.1,North
+641,2023-07-07,Home & Garden,Desk,5,183.86,919.3,North
+642,2023-04-14,Home & Garden,Desk,5,206.04,1030.2,East
+643,2023-08-09,Electronics,Laptop,5,273.48,1367.4,West
+644,2023-09-10,Home & Garden,Desk,8,465.21,3721.68,East
+645,2023-08-27,Sports,Yoga Mat,1,229.88,229.88,West
+646,2023-06-17,Home & Garden,Desk,3,468.51,1405.53,South
+647,2023-04-25,Electronics,Headphones,8,388.46,3107.68,North
+648,2023-09-04,Home & Garden,Lamp,9,439.08,3951.72,North
+649,2023-12-22,Books,Comic,10,351.54,3515.4,North
+650,2023-05-27,Sports,Tennis Racket,5,368.6,1843.0,North
+651,2023-09-04,Clothing,Jeans,10,206.73,2067.3,North
+652,2023-01-08,Home & Garden,Blender,10,461.27,4612.7,East
+653,2023-06-17,Books,Textbook,8,390.13,3121.04,North
+654,2023-11-16,Home & Garden,Lamp,2,275.17,550.34,East
+655,2023-02-02,Clothing,T-Shirt,8,128.46,1027.68,West
+656,2023-10-26,Clothing,Jacket,3,13.41,40.23,East
+657,2023-04-09,Electronics,Monitor,6,499.41,2996.46,North
+658,2023-05-06,Clothing,Jeans,10,360.05,3600.5,East
+659,2023-01-15,Books,Textbook,4,96.16,384.64,North
+660,2023-01-28,Clothing,Jacket,4,115.98,463.92,North
+661,2023-04-13,Electronics,Laptop,5,117.38,586.9,South
+662,2023-02-25,Books,Comic,6,474.78,2848.68,North
+663,2023-02-27,Books,Textbook,7,318.24,2227.68,North
+664,2023-01-26,Books,Novel,8,67.08,536.64,East
+665,2023-01-07,Books,Comic,9,401.18,3610.62,East
+666,2023-05-04,Home & Garden,Chair,1,303.53,303.53,North
+667,2023-01-12,Clothing,Sneakers,10,459.84,4598.4,East
+668,2023-05-29,Clothing,Jacket,2,160.04,320.08,West
+669,2023-09-14,Clothing,Jeans,7,43.19,302.33,North
+670,2023-01-20,Sports,Bike,2,102.58,205.16,West
+671,2023-12-03,Books,Novel,1,125.64,125.64,North
+672,2023-11-20,Books,Comic,10,324.91,3249.1,West
+673,2023-09-10,Clothing,Jeans,8,414.47,3315.76,North
+674,2023-11-28,Books,Novel,1,365.92,365.92,West
+675,2023-10-27,Books,Comic,4,461.28,1845.12,North
+676,2023-10-05,Electronics,Smartphone,5,338.77,1693.85,West
+677,2023-01-28,Home & Garden,Desk,9,334.64,3011.76,South
+678,2023-03-27,Books,Biography,5,73.81,369.05,South
+679,2023-11-10,Home & Garden,Chair,3,244.23,732.69,West
+680,2023-10-26,Books,Novel,8,242.83,1942.64,South
+681,2023-09-26,Clothing,Sneakers,10,478.7,4787.0,North
+682,2023-09-18,Sports,Tennis Racket,9,374.69,3372.21,East
+683,2023-05-29,Clothing,T-Shirt,5,357.78,1788.9,West
+684,2023-01-14,Electronics,Laptop,1,167.28,167.28,West
+685,2023-06-06,Books,Textbook,3,48.91,146.73,West
+686,2023-09-20,Electronics,Laptop,2,478.42,956.84,North
+687,2023-07-30,Clothing,Jacket,1,27.26,27.26,South
+688,2023-02-26,Sports,Tennis Racket,10,405.92,4059.2,West
+689,2023-02-22,Electronics,Smartphone,10,224.02,2240.2,South
+690,2023-02-21,Home & Garden,Lamp,9,187.1,1683.9,East
+691,2023-02-02,Books,Textbook,8,402.99,3223.92,West
+692,2023-10-14,Books,Novel,5,349.3,1746.5,South
+693,2023-02-06,Sports,Tennis Racket,10,379.47,3794.7,East
+694,2023-08-07,Books,Biography,7,273.35,1913.45,South
+695,2023-01-04,Books,Textbook,4,435.92,1743.68,West
+696,2023-01-12,Home & Garden,Desk,7,47.34,331.38,West
+697,2023-02-04,Home & Garden,Blender,7,88.04,616.28,West
+698,2023-03-06,Electronics,Headphones,1,167.48,167.48,South
+699,2023-03-17,Clothing,Jeans,5,306.28,1531.4,South
+700,2023-12-20,Clothing,Sneakers,2,214.87,429.74,North
+701,2023-06-10,Sports,Yoga Mat,10,415.91,4159.1,East
+702,2023-07-10,Electronics,Smartphone,5,450.41,2252.05,East
+703,2023-06-25,Books,Novel,2,365.59,731.18,East
+704,2023-08-27,Electronics,Laptop,1,435.9,435.9,South
+705,2023-03-24,Electronics,Monitor,2,488.72,977.44,West
+706,2023-07-14,Books,Textbook,3,275.25,825.75,South
+707,2023-03-17,Home & Garden,Desk,5,135.82,679.1,East
+708,2023-06-03,Clothing,Sneakers,6,368.01,2208.06,North
+709,2023-08-24,Books,Textbook,2,155.2,310.4,North
+710,2023-08-31,Home & Garden,Blender,10,273.74,2737.4,South
+711,2023-02-06,Sports,Yoga Mat,1,266.96,266.96,North
+712,2023-08-06,Books,Textbook,10,362.95,3629.5,East
+713,2023-06-21,Books,Comic,7,270.29,1892.03,East
+714,2023-03-28,Home & Garden,Blender,9,123.11,1107.99,North
+715,2023-10-20,Sports,Yoga Mat,10,293.72,2937.2,North
+716,2023-06-18,Books,Comic,9,189.26,1703.34,West
+717,2023-06-08,Clothing,Sneakers,9,149.04,1341.36,East
+718,2023-03-02,Clothing,Jeans,2,481.86,963.72,South
+719,2023-10-07,Books,Novel,4,15.58,62.32,North
+720,2023-10-28,Sports,Bike,5,101.2,506.0,West
+721,2023-06-26,Home & Garden,Blender,1,432.22,432.22,South
+722,2023-04-25,Electronics,Laptop,2,408.22,816.44,North
+723,2023-09-22,Electronics,Laptop,6,369.08,2214.48,North
+724,2023-05-30,Sports,Tennis Racket,10,219.63,2196.3,North
+725,2023-05-04,Books,Comic,9,432.45,3892.05,North
+726,2023-01-06,Electronics,Monitor,2,440.53,881.06,South
+727,2023-04-11,Home & Garden,Lamp,2,293.82,587.64,West
+728,2023-05-27,Clothing,Jacket,4,31.79,127.16,South
+729,2023-03-17,Electronics,Monitor,8,315.16,2521.28,West
+730,2023-01-08,Sports,Bike,9,404.68,3642.12,West
+731,2023-05-23,Sports,Dumbbells,3,44.11,132.33,South
+732,2023-04-18,Sports,Yoga Mat,1,426.69,426.69,North
+733,2023-12-13,Books,Textbook,1,245.14,245.14,South
+734,2023-08-16,Sports,Tennis Racket,6,462.76,2776.56,East
+735,2023-09-20,Electronics,Laptop,10,499.13,4991.3,West
+736,2023-06-19,Electronics,Smartphone,4,400.4,1601.6,West
+737,2023-10-23,Books,Textbook,3,421.17,1263.51,North
+738,2023-06-15,Electronics,Smartphone,2,143.14,286.28,East
+739,2023-10-27,Electronics,Smartphone,10,167.86,1678.6,West
+740,2023-03-20,Books,Biography,5,367.81,1839.05,South
+741,2023-06-18,Books,Comic,2,69.24,138.48,West
+742,2023-04-19,Books,Biography,5,395.41,1977.05,North
+743,2023-04-06,Clothing,Jeans,1,211.05,211.05,West
+744,2023-08-04,Sports,Tennis Racket,5,324.53,1622.65,North
+745,2023-09-22,Books,Textbook,1,487.47,487.47,North
+746,2023-01-19,Home & Garden,Chair,3,325.98,977.94,North
+747,2023-11-06,Electronics,Smartphone,8,21.96,175.68,East
+748,2023-11-20,Clothing,Jacket,6,47.33,283.98,West
+749,2023-11-09,Sports,Yoga Mat,7,340.01,2380.07,East
+750,2023-11-28,Home & Garden,Chair,8,444.09,3552.72,East
+751,2023-08-24,Electronics,Smartphone,9,114.51,1030.59,North
+752,2023-11-22,Sports,Tennis Racket,5,169.2,846.0,North
+753,2023-12-17,Clothing,Jacket,5,74.33,371.65,West
+754,2023-05-02,Electronics,Monitor,9,328.47,2956.23,West
+755,2023-02-05,Sports,Tennis Racket,2,62.04,124.08,East
+756,2023-06-24,Books,Textbook,9,396.23,3566.07,South
+757,2023-04-22,Electronics,Headphones,5,401.95,2009.75,West
+758,2023-07-22,Sports,Dumbbells,10,482.59,4825.9,South
+759,2023-11-19,Clothing,Jeans,2,317.86,635.72,North
+760,2023-03-15,Clothing,Jacket,10,114.36,1143.6,South
+761,2023-03-31,Sports,Tennis Racket,7,114.66,802.62,North
+762,2023-10-09,Home & Garden,Blender,4,13.41,53.64,South
+763,2023-03-07,Home & Garden,Desk,9,46.09,414.81,South
+764,2023-12-17,Books,Textbook,5,151.61,758.05,East
+765,2023-04-01,Books,Textbook,5,145.9,729.5,South
+766,2023-12-23,Home & Garden,Chair,5,55.85,279.25,East
+767,2023-01-25,Clothing,T-Shirt,3,159.5,478.5,West
+768,2023-07-27,Clothing,Jeans,1,99.86,99.86,South
+769,2023-05-31,Books,Biography,1,434.0,434.0,West
+770,2023-04-27,Electronics,Smartphone,7,453.31,3173.17,South
+771,2023-08-31,Sports,Bike,6,438.35,2630.1,East
+772,2023-07-25,Books,Novel,3,237.59,712.77,East
+773,2023-03-26,Home & Garden,Chair,7,101.99,713.93,North
+774,2023-02-24,Home & Garden,Desk,1,19.86,19.86,East
+775,2023-09-20,Electronics,Smartphone,2,221.85,443.7,South
+776,2023-12-16,Books,Textbook,3,258.55,775.65,South
+777,2023-01-20,Books,Biography,7,422.51,2957.57,North
+778,2023-06-05,Books,Textbook,1,49.24,49.24,South
+779,2023-03-01,Electronics,Headphones,9,261.87,2356.83,South
+780,2023-01-02,Home & Garden,Chair,1,255.64,255.64,North
+781,2023-02-21,Clothing,Sneakers,2,141.93,283.86,East
+782,2023-04-12,Sports,Yoga Mat,6,385.03,2310.18,East
+783,2023-10-26,Home & Garden,Lamp,7,178.92,1252.44,South
+784,2023-08-31,Electronics,Headphones,2,231.62,463.24,North
+785,2023-01-03,Home & Garden,Blender,7,248.78,1741.46,North
+786,2023-12-20,Home & Garden,Chair,9,243.66,2192.94,South
+787,2023-03-08,Home & Garden,Chair,7,430.65,3014.55,East
+788,2023-01-25,Clothing,Jeans,4,388.14,1552.56,East
+789,2023-02-08,Electronics,Laptop,6,366.89,2201.34,West
+790,2023-01-12,Sports,Bike,8,131.01,1048.08,East
+791,2023-03-02,Electronics,Monitor,9,175.58,1580.22,North
+792,2023-07-16,Clothing,Jeans,5,38.52,192.6,South
+793,2023-03-07,Sports,Bike,6,373.23,2239.38,North
+794,2023-12-03,Sports,Bike,6,125.16,750.96,East
+795,2023-09-25,Sports,Dumbbells,10,151.62,1516.2,West
+796,2023-02-18,Sports,Bike,2,14.73,29.46,North
+797,2023-08-23,Home & Garden,Lamp,2,409.85,819.7,West
+798,2023-09-19,Books,Biography,2,266.19,532.38,North
+799,2023-04-13,Home & Garden,Chair,8,488.08,3904.64,East
+800,2023-10-24,Clothing,T-Shirt,4,272.39,1089.56,East
+801,2023-11-03,Sports,Yoga Mat,3,75.34,226.02,North
+802,2023-08-24,Clothing,Sneakers,4,387.11,1548.44,North
+803,2023-05-24,Sports,Yoga Mat,6,37.63,225.78,North
+804,2023-04-12,Sports,Yoga Mat,10,306.72,3067.2,West
+805,2023-08-15,Electronics,Smartphone,10,52.66,526.6,East
+806,2023-04-07,Electronics,Laptop,6,198.57,1191.42,South
+807,2023-10-25,Electronics,Laptop,9,338.85,3049.65,North
+808,2023-06-25,Books,Novel,1,33.95,33.95,North
+809,2023-06-10,Sports,Bike,3,398.7,1196.1,North
+810,2023-12-02,Home & Garden,Desk,9,486.34,4377.06,South
+811,2023-09-16,Electronics,Smartphone,6,376.39,2258.34,West
+812,2023-05-22,Sports,Bike,7,98.89,692.23,West
+813,2023-11-02,Sports,Tennis Racket,1,239.66,239.66,West
+814,2023-11-22,Sports,Dumbbells,7,297.19,2080.33,South
+815,2023-04-18,Electronics,Monitor,6,38.6,231.6,South
+816,2023-02-17,Clothing,T-Shirt,4,321.47,1285.88,North
+817,2023-10-31,Sports,Dumbbells,6,215.42,1292.52,West
+818,2023-08-25,Clothing,T-Shirt,8,328.53,2628.24,South
+819,2023-12-29,Clothing,T-Shirt,9,270.45,2434.05,West
+820,2023-09-26,Electronics,Headphones,9,308.96,2780.64,West
+821,2023-07-28,Electronics,Laptop,10,362.99,3629.9,North
+822,2023-05-14,Sports,Yoga Mat,8,231.37,1850.96,West
+823,2023-09-01,Home & Garden,Chair,4,111.42,445.68,West
+824,2023-05-02,Home & Garden,Chair,7,226.35,1584.45,South
+825,2023-10-09,Clothing,Sneakers,1,120.1,120.1,South
+826,2023-02-13,Home & Garden,Blender,9,116.25,1046.25,North
+827,2023-01-27,Clothing,Jacket,6,51.56,309.36,North
+828,2023-05-07,Home & Garden,Chair,6,95.62,573.72,East
+829,2023-10-22,Books,Biography,9,195.06,1755.54,East
+830,2023-03-02,Books,Textbook,8,361.03,2888.24,East
+831,2023-09-02,Sports,Dumbbells,4,244.01,976.04,North
+832,2023-09-07,Clothing,T-Shirt,5,413.97,2069.85,West
+833,2023-05-30,Clothing,Jeans,1,440.47,440.47,East
+834,2023-06-25,Clothing,Sneakers,6,324.61,1947.66,South
+835,2023-03-25,Clothing,Jacket,7,457.43,3202.01,South
+836,2023-05-22,Home & Garden,Desk,1,372.73,372.73,North
+837,2023-03-07,Clothing,Sneakers,5,51.53,257.65,West
+838,2023-01-09,Home & Garden,Lamp,3,317.38,952.14,East
+839,2023-12-04,Clothing,T-Shirt,2,163.26,326.52,North
+840,2023-04-09,Clothing,T-Shirt,5,174.71,873.55,North
+841,2023-07-16,Clothing,Sneakers,1,107.3,107.3,South
+842,2023-03-27,Clothing,Jeans,7,105.01,735.07,North
+843,2023-08-14,Clothing,Jacket,8,433.07,3464.56,North
+844,2023-12-01,Clothing,Jacket,3,471.95,1415.85,West
+845,2023-09-08,Books,Comic,6,62.58,375.48,West
+846,2023-07-05,Home & Garden,Desk,2,307.95,615.9,West
+847,2023-02-19,Clothing,Jacket,8,413.5,3308.0,East
+848,2023-08-24,Home & Garden,Lamp,3,301.29,903.87,West
+849,2023-07-01,Books,Novel,3,428.74,1286.22,South
+850,2023-03-21,Home & Garden,Lamp,3,470.58,1411.74,West
+851,2023-12-27,Clothing,Jeans,1,225.36,225.36,East
+852,2023-12-23,Home & Garden,Blender,7,245.83,1720.81,North
+853,2023-11-27,Electronics,Monitor,4,181.24,724.96,East
+854,2023-12-31,Home & Garden,Chair,3,266.25,798.75,South
+855,2023-12-07,Books,Comic,9,237.35,2136.15,North
+856,2023-01-02,Sports,Dumbbells,5,91.2,456.0,South
+857,2023-08-14,Books,Novel,7,200.96,1406.72,North
+858,2023-09-24,Clothing,T-Shirt,1,373.67,373.67,East
+859,2023-12-06,Sports,Dumbbells,2,461.86,923.72,North
+860,2023-08-21,Electronics,Monitor,3,120.29,360.87,South
+861,2023-06-15,Clothing,T-Shirt,9,95.16,856.44,East
+862,2023-08-16,Clothing,T-Shirt,7,142.14,994.98,North
+863,2023-08-04,Electronics,Smartphone,8,18.03,144.24,North
+864,2023-09-25,Books,Comic,4,326.83,1307.32,West
+865,2023-11-19,Clothing,T-Shirt,7,95.45,668.15,West
+866,2023-09-05,Books,Novel,3,37.23,111.69,West
+867,2023-09-10,Books,Biography,2,123.72,247.44,North
+868,2023-06-16,Books,Biography,9,173.39,1560.51,East
+869,2023-01-14,Clothing,Sneakers,5,18.92,94.6,West
+870,2023-11-30,Electronics,Laptop,3,70.37,211.11,East
+871,2023-11-21,Sports,Tennis Racket,2,126.57,253.14,North
+872,2023-08-15,Clothing,Sneakers,2,487.29,974.58,North
+873,2023-11-13,Sports,Yoga Mat,9,369.54,3325.86,West
+874,2023-07-12,Clothing,Sneakers,6,60.37,362.22,West
+875,2023-10-12,Books,Textbook,1,492.59,492.59,North
+876,2023-05-07,Sports,Yoga Mat,2,205.48,410.96,North
+877,2023-03-15,Electronics,Headphones,4,264.08,1056.32,West
+878,2023-03-13,Sports,Dumbbells,4,464.97,1859.88,East
+879,2023-02-03,Sports,Dumbbells,1,206.53,206.53,South
+880,2023-01-19,Sports,Bike,6,358.34,2150.04,West
+881,2023-05-29,Home & Garden,Desk,8,395.72,3165.76,North
+882,2023-07-09,Home & Garden,Chair,7,24.04,168.28,West
+883,2023-08-05,Clothing,Jeans,9,267.94,2411.46,South
+884,2023-02-13,Home & Garden,Chair,6,136.08,816.48,North
+885,2023-05-02,Books,Novel,3,447.95,1343.85,West
+886,2023-04-13,Home & Garden,Chair,8,14.32,114.56,East
+887,2023-03-08,Electronics,Laptop,3,129.18,387.54,West
+888,2023-08-12,Sports,Tennis Racket,9,25.49,229.41,West
+889,2023-12-04,Books,Novel,10,483.94,4839.4,East
+890,2023-04-14,Books,Comic,1,14.8,14.8,West
+891,2023-12-19,Books,Novel,7,154.76,1083.32,South
+892,2023-01-03,Clothing,Sneakers,9,152.95,1376.55,North
+893,2023-02-22,Home & Garden,Lamp,4,248.81,995.24,East
+894,2023-07-27,Electronics,Headphones,6,403.54,2421.24,West
+895,2023-10-28,Clothing,T-Shirt,8,444.74,3557.92,West
+896,2023-09-25,Electronics,Laptop,3,229.79,689.37,South
+897,2023-08-25,Electronics,Headphones,9,415.42,3738.78,South
+898,2023-02-25,Books,Comic,2,175.52,351.04,South
+899,2023-02-18,Sports,Tennis Racket,10,363.7,3637.0,South
+900,2023-07-29,Sports,Yoga Mat,2,121.96,243.92,North
+901,2023-07-29,Sports,Dumbbells,6,413.17,2479.02,East
+902,2023-10-07,Home & Garden,Blender,3,306.85,920.55,South
+903,2023-03-27,Home & Garden,Desk,4,303.43,1213.72,South
+904,2023-01-09,Books,Comic,3,184.66,553.98,North
+905,2023-12-04,Home & Garden,Desk,2,376.08,752.16,East
+906,2023-06-18,Electronics,Headphones,6,169.86,1019.16,South
+907,2023-01-15,Electronics,Smartphone,6,435.56,2613.36,East
+908,2023-06-30,Clothing,Jacket,10,408.81,4088.1,North
+909,2023-12-17,Home & Garden,Chair,7,114.07,798.49,East
+910,2023-01-05,Sports,Bike,8,139.8,1118.4,West
+911,2023-03-06,Clothing,T-Shirt,2,77.51,155.02,South
+912,2023-10-12,Clothing,Jeans,10,407.5,4075.0,South
+913,2023-12-22,Electronics,Headphones,3,489.86,1469.58,West
+914,2023-06-05,Clothing,Sneakers,5,344.3,1721.5,East
+915,2023-04-27,Home & Garden,Desk,1,109.09,109.09,West
+916,2023-09-01,Electronics,Headphones,2,43.14,86.28,South
+917,2023-12-13,Home & Garden,Lamp,7,70.14,490.98,South
+918,2023-12-11,Home & Garden,Desk,5,50.83,254.15,South
+919,2023-12-26,Books,Biography,1,58.65,58.65,West
+920,2023-08-31,Books,Biography,7,432.09,3024.63,East
+921,2023-02-19,Sports,Tennis Racket,4,333.45,1333.8,North
+922,2023-08-23,Clothing,Jeans,7,341.84,2392.88,East
+923,2023-11-13,Sports,Tennis Racket,7,133.04,931.28,West
+924,2023-02-15,Books,Comic,3,297.94,893.82,South
+925,2023-04-22,Home & Garden,Desk,4,374.5,1498.0,North
+926,2023-10-26,Home & Garden,Lamp,10,167.95,1679.5,East
+927,2023-08-15,Home & Garden,Lamp,1,343.89,343.89,South
+928,2023-01-14,Sports,Yoga Mat,4,166.47,665.88,South
+929,2023-11-08,Home & Garden,Lamp,9,89.54,805.86,West
+930,2023-11-17,Clothing,Jeans,6,80.29,481.74,South
+931,2023-05-14,Clothing,T-Shirt,8,148.88,1191.04,North
+932,2023-09-21,Home & Garden,Blender,7,149.11,1043.77,North
+933,2023-02-14,Books,Biography,8,204.06,1632.48,North
+934,2023-05-01,Clothing,Jeans,3,391.49,1174.47,West
+935,2023-10-09,Sports,Bike,8,76.39,611.12,North
+936,2023-04-24,Books,Novel,5,68.5,342.5,North
+937,2023-09-07,Home & Garden,Desk,5,75.98,379.9,East
+938,2023-02-11,Electronics,Headphones,7,488.29,3418.03,East
+939,2023-03-14,Home & Garden,Chair,10,296.43,2964.3,East
+940,2023-07-07,Sports,Bike,1,448.64,448.64,West
+941,2023-09-19,Books,Biography,7,89.68,627.76,North
+942,2023-04-15,Electronics,Laptop,8,209.12,1672.96,West
+943,2023-03-05,Books,Novel,8,462.27,3698.16,South
+944,2023-06-01,Clothing,T-Shirt,2,205.32,410.64,North
+945,2023-07-16,Clothing,Jacket,10,446.23,4462.3,West
+946,2023-07-24,Books,Comic,1,86.07,86.07,South
+947,2023-01-14,Electronics,Monitor,5,186.71,933.55,South
+948,2023-11-08,Clothing,Sneakers,10,152.01,1520.1,West
+949,2023-11-28,Home & Garden,Desk,8,445.86,3566.88,West
+950,2023-11-05,Clothing,T-Shirt,1,379.34,379.34,South
+951,2023-05-31,Clothing,Jacket,7,188.75,1321.25,West
+952,2023-09-25,Clothing,Jeans,10,480.58,4805.8,South
+953,2023-08-27,Home & Garden,Chair,3,294.26,882.78,East
+954,2023-05-25,Sports,Yoga Mat,7,188.75,1321.25,East
+955,2023-01-19,Sports,Dumbbells,8,385.25,3082.0,West
+956,2023-04-17,Home & Garden,Lamp,10,489.11,4891.1,East
+957,2023-10-04,Books,Novel,3,206.12,618.36,South
+958,2023-05-23,Sports,Bike,4,195.93,783.72,East
+959,2023-04-24,Clothing,T-Shirt,5,327.08,1635.4,North
+960,2023-03-16,Clothing,T-Shirt,3,34.74,104.22,South
+961,2023-01-01,Books,Biography,6,52.65,315.9,West
+962,2023-11-30,Home & Garden,Desk,7,470.09,3290.63,East
+963,2023-11-23,Home & Garden,Chair,3,478.06,1434.18,North
+964,2023-11-16,Books,Biography,4,376.71,1506.84,South
+965,2023-11-30,Books,Novel,5,131.14,655.7,East
+966,2023-07-15,Sports,Tennis Racket,9,272.23,2450.07,South
+967,2023-04-22,Home & Garden,Lamp,3,455.8,1367.4,North
+968,2023-12-31,Clothing,Sneakers,4,34.21,136.84,North
+969,2023-09-10,Electronics,Monitor,1,133.46,133.46,South
+970,2023-05-28,Books,Novel,6,333.28,1999.68,West
+971,2023-08-17,Electronics,Laptop,5,79.44,397.2,North
+972,2023-07-25,Books,Comic,10,355.83,3558.3,West
+973,2023-07-13,Books,Textbook,2,321.92,643.84,South
+974,2023-05-31,Books,Textbook,1,470.88,470.88,North
+975,2023-04-14,Sports,Dumbbells,8,264.82,2118.56,North
+976,2023-07-27,Sports,Dumbbells,2,23.41,46.82,South
+977,2023-10-12,Electronics,Smartphone,10,443.28,4432.8,East
+978,2023-08-31,Home & Garden,Lamp,9,475.84,4282.56,East
+979,2023-04-06,Electronics,Monitor,10,97.99,979.9,East
+980,2023-04-06,Electronics,Laptop,7,380.43,2663.01,South
+981,2023-08-07,Clothing,Sneakers,1,163.84,163.84,West
+982,2023-12-05,Home & Garden,Lamp,7,329.14,2303.98,East
+983,2023-04-01,Sports,Yoga Mat,4,156.81,627.24,West
+984,2023-04-13,Books,Comic,2,396.69,793.38,West
+985,2023-09-19,Books,Biography,2,322.65,645.3,South
+986,2023-02-12,Clothing,Jacket,8,58.99,471.92,East
+987,2023-12-09,Books,Biography,1,103.07,103.07,South
+988,2023-04-03,Clothing,Jacket,3,233.17,699.51,East
+989,2023-02-04,Home & Garden,Chair,7,437.84,3064.88,West
+990,2023-01-13,Books,Comic,10,221.34,2213.4,East
+991,2023-05-11,Sports,Yoga Mat,9,428.68,3858.12,East
+992,2023-09-07,Clothing,Jeans,1,211.53,211.53,East
+993,2023-02-18,Sports,Bike,1,145.33,145.33,North
+994,2023-10-23,Clothing,Jacket,4,48.61,194.44,East
+995,2023-11-21,Sports,Dumbbells,9,124.48,1120.32,South
+996,2023-03-25,Clothing,Jeans,8,379.19,3033.52,East
+997,2023-02-10,Home & Garden,Blender,10,12.37,123.7,North
+998,2023-06-01,Electronics,Laptop,8,413.81,3310.48,East
+999,2023-02-16,Sports,Yoga Mat,5,26.27,131.35,North
+1000,2023-07-14,Clothing,Sneakers,1,407.29,407.29,North
